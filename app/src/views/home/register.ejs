@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="/css/home/login.css">
+    <script src="/js/home/register.js" defer></script>
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="login-page">
+        <div class="form">
+            <!-- <form class="register-form">
+                <input id="id" type="text" placeholder="아이디" />
+                <input id="psword" type="password" placeholder="비밀번호" />
+                <input type="text" placeholder="email address" />
+                <button>create</button>
+                <p class="message">Already registered? <a href="#">Sign In</a></p>
+            </form> -->
+            <form class="login-form"> <!-- form태그는 button태그버튼을 누를때 자동적으로 submit해주는 기능이있음
+            그래서 button태그로 하지말고(계속 로딩헛돌음) <p id="button" ></p>이런식으로 잡아줄거임(새로운 페이지로 이동해도 되니까-->
+                <input id="id" type="text" placeholder="아이디" />
+                <input id="name" type="text" placeholder="이름" />
+                <input id="psword" type="password" placeholder="비밀번호" />
+                <input id="confirmPsword" type="password" placeholder="비밀번호 재확인" />
+                <p id="button">회원가입</p>
+                <p class="message">이미 가입했나요? <a href="/login">로그인하기</a></p>
+                <!-- <button>login</button>
+                <p class="message">Not registered? <a href="/register">Create an account</a></p> -->
+            </form>
+        </div>
+    </div>
+</body>
+
+</html>

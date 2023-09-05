@@ -1,0 +1,33 @@
+  시간: 2023-09-01 08:11:05 [백엔드 맛보기] info : hello subscribers~
+시간: 2023-09-01 08:19:05 [백엔드 맛보기] info : hello subscribers~
+시간: 2023-09-02 09:35:06 [백엔드 맛보기] info : server is running
+시간: 2023-09-02 09:35:06 [백엔드 맛보기] info : GET/login 200 "홈 화면으로 이동"
+시간: 2023-09-02 09:36:06 [백엔드 맛보기] info : 3306 server is running
+시간: 2023-09-02 09:46:06 [백엔드 맛보기] info : 3300 server is running
+시간: 2023-09-02 09:46:06 [백엔드 맛보기] info : GET/login 200 "홈 화면으로 이동"
+시간: 2023-09-02 09:46:06 [백엔드 맛보기] info : GET/login 200 "login 화면으로 이동"
+시간: 2023-09-02 09:46:06 [백엔드 맛보기] info : POST/login 200 Response: "success: true, msg:undefined"
+시간: 2023-09-02 09:46:06 [백엔드 맛보기] info : GET/login 200 "홈 화면으로 이동"
+시간: 2023-09-02 10:02:06 [백엔드 맛보기] info : 3300 server is running
+시간: 2023-09-02 10:02:06 [백엔드 맛보기] info : GET/login 200 "홈 화면으로 이동"
+시간: 2023-09-02 10:03:06 [백엔드 맛보기] info : GET/login 200 "login 화면으로 이동"
+시간: 2023-09-02 10:05:06 [백엔드 맛보기] info : 3300 server is running
+시간: 2023-09-02 10:05:06 [백엔드 맛보기] info : GET/login 200 "홈 화면으로 이동"
+시간: 2023-09-02 10:05:06 [백엔드 맛보기] info : GET/login 200 "login 화면으로 이동"
+시간: 2023-09-02 10:11:06 [백엔드 맛보기] info : 3300 server is running
+시간: 2023-09-02 10:11:06 [백엔드 맛보기] info : GET/login 200 "홈 화면으로 이동"
+시간: 2023-09-02 10:11:06 [백엔드 맛보기] info : GET/login 200 "login 화면으로 이동"
+시간: 2023-09-02 10:13:06 [백엔드 맛보기] info : GET/login 200 "login 화면으로 이동"
+시간: 2023-09-02 10:13:06 [백엔드 맛보기] error : POST /login 400 Response: false, TypeError: Cannot destructure property 'id' of '(intermediate value)' as it is undefined."
+시간: 2023-09-02 10:20:06 [백엔드 맛보기] info : 3300 server is running
+시간: 2023-09-02 10:20:06 [백엔드 맛보기] info : GET/login 200 "홈 화면으로 이동"
+시간: 2023-09-02 10:20:06 [백엔드 맛보기] info : GET/login 200 "login 화면으로 이동"
+시간: 2023-09-02 10:20:06 [백엔드 맛보기] info : POST /login 200 Response: false, 비밀번호가 틀렸습니다."
+시간: 2023-09-02 10:21:06 [백엔드 맛보기] info : POST /login 200 Response: false, 비밀번호가 틀렸습니다."
+시간: 2023-09-02 10:30:06 [백엔드 맛보기] info : 3300 server is running
+시간: 2023-09-02 10:30:06 [백엔드 맛보기] info : GET/login 200 "홈 화면으로 이동"
+시간: 2023-09-02 10:30:06 [백엔드 맛보기] info : GET/login 200 "login 화면으로 이동"
+시간: 2023-09-02 10:30:06 [백엔드 맛보기] info : POST /login 200 Response: false, 존재하지 않는 아이디입니다."
+시간: 2023-09-03 12:55:00 [백엔드 맛보기] info : 3300 server is running
+시간: 2023-09-03 12:55:00 [백엔드 맛보기] info : GET/login 200 "홈 화면으로 이동"
+시간: 2023-09-03 12:55:00 [백엔드 맛보기] info : GET/login 200 "login 화면으로 이동"
